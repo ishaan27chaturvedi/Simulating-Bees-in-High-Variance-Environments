@@ -9,6 +9,7 @@ This code is simulating the model as described in this [paper](https://qmplus.qm
 * [Electronic supplementary material](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frsbl.2016.0188&file=rsbl20160188supp1.pdf)
 * [Study](https://www.researchgate.net/publication/281710852_Competition_for_resources_can_explain_patterns_of_social_and_individual_learning_in_nature) this is based on (read the model) 
 
+I have also added a presentation (pdf) that I created, as well as the consolidated data from the study.
 
 ## Getting Started
 
