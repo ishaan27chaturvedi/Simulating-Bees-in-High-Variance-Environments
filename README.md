@@ -4,7 +4,7 @@ Copy when uncertain: Simulating the foraging behavior of bumblebees, relying on 
 
 ## Description
 
-This code is simulating the model as described in this [paper](https://qmplus.qmul.ac.uk/pluginfile.php/2537481/mod_resource/content/1/rsbl.2016.0188.pdf)
+This code is simulating the model as described in this [paper](https://royalsocietypublishing.org/doi/10.1098/rsbl.2016.0188)
 <br><br>To understand the model completely, please read the following as well:
 * [Electronic supplementary material](https://royalsocietypublishing.org/action/downloadSupplement?doi=10.1098%2Frsbl.2016.0188&file=rsbl20160188supp1.pdf)
 * [Study](https://www.researchgate.net/publication/281710852_Competition_for_resources_can_explain_patterns_of_social_and_individual_learning_in_nature) this is based on (read the model) 
